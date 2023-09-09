@@ -1,4 +1,4 @@
-![logo](https://www.dowo.digital/2019/wp-content/uploads/2020/01/website-design-and-website-development.gif)
+![logo](https://i.gifer.com/origin/35/3596672b2ebf171b68ff26e47f6d684e_w200.gif)
 <h1 align="center">Hi 👋, I'm Elahe Mortazavi</h1>
 <h3 align="center">A passionate full stack developer from London</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/24202244224795.581a51026d51f.gif" >
