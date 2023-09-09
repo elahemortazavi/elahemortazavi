@@ -1,4 +1,4 @@
-![logo](https://cdn1.vectorstock.com/i/1000x1000/54/50/running-a-space-rocket-from-a-computer-vector-17505450.jpg)
+![logo](https://www.dowo.digital/2019/wp-content/uploads/2020/01/website-design-and-website-development.gif)
 <h1 align="center">Hi 👋, I'm Elahe Mortazavi</h1>
 <h3 align="center">A passionate full stack developer from London</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" >
