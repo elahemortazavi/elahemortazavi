@@ -1,4 +1,4 @@
-![logo](https://i.gifer.com/origin/35/3596672b2ebf171b68ff26e47f6d684e_w200.gif)
+![logo](https://camo.githubusercontent.com/12ed8b5167f26c4212081cb7ece66613b5729ccb45775e8a4a47311af7ae861e/68747470733a2f2f7777772e7468656d6f6f6e746563686e6f6c6f676965732e636f6d2f696d616765732f62616e6e65722d62672e676966)
 <h1 align="center">Hi 👋, I'm Elahe Mortazavi</h1>
 <h3 align="center">A passionate full stack developer from London</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/24202244224795.581a51026d51f.gif" >
